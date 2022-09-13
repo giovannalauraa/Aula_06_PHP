@@ -20,6 +20,8 @@
     7. Start os serviços novamente;
     8. Entre em phpMyAdmin.
     
+    Obs: Todas as vezes que você alterar a porta, deve-se clicar em Stop e depois em Start
+    
    <br>
    
    ![alt text](https://github.com/giovannalauraa/Aula_06_PHP/blob/e08f60551f05a1d7554580aaa4de8390ba8a7cdc/captura1.PNG)

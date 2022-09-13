@@ -1,6 +1,7 @@
 # Aula_06_PHP
 
 ### Conectando o banco:
+
 <br>
 
     1. Abrir o XAMPP e clicar em Config de MySql;
@@ -42,7 +43,8 @@
 
      Passo a passo:
      1. Entre em SQL;
-     2.
+     2. Digite o Script;
+     3. Clique em executar.
     
    <br>
    

@@ -33,3 +33,17 @@
    <br>
    
    ![alt text](https://github.com/giovannalauraa/Aula_06_PHP/blob/e08f60551f05a1d7554580aaa4de8390ba8a7cdc/captura2.PNG)
+   
+   <br>
+   
+   ### Criando tabelas no banco:
+   
+   <br>
+
+     Passo a passo:
+     1. Entre em SQL;
+     2.
+    
+   <br>
+   
+   ![alt text](https://github.com/giovannalauraa/Aula_06_PHP/blob/7dc3d0624a4afae071d439785536b41f35063011/captura3.PNG)
